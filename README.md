@@ -2,9 +2,10 @@
 
 Created by: **Hevander Da Costa**
 
-**ScanvangerHunt** is an app that has a list which requires the user to attach photos based on the task. After attaching the photo to a task, the app shows the user where that photo was taken in a map.
+**Trial Search** is an app that allows users to search clinical studies that are recruiting or not yet recruiting 
 
-Time spent: **** hours spent in total
+
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -29,5 +30,8 @@ The following **additional** features are implemented:
 
 
 ## Video Walkthrough
+![Screen%20Recording%20-%20May%206%2C%202024](https://github.com/Hevander27/TrialSearch/assets/45948489/625e54e4-cfd9-48d6-99db-d8c5c8bedb3d)
+
+
 
 
