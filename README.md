@@ -1,4 +1,4 @@
-# Trial Search*
+# Trial Search
 
 Created by: **Hevander Da Costa**
 
